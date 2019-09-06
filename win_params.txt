@@ -1,0 +1,6 @@
+LINES  = 38
+COLS   = 136
+width  = 16
+height = 8
+startx = 60
+starty = 15
